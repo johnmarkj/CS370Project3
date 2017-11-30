@@ -13,9 +13,9 @@ total line is displayed showing the total value of all sales from the last 3 mon
 
 **For Windows**
 [Cygwin Zip File](https://docs.google.com/open?id=0B4CSrXwYHmn_X1dJLS1XcWFfWGs)
--Go to the link and download the zip file
--Extract the zip file(recommended to extract on the desktop)
--Execute the Cygwin Terminal
+- Go to the link and download the zip file
+- Extract the zip file(recommended to extract on the desktop)
+- Execute the Cygwin Terminal
 
 
 **For MAC**
