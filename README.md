@@ -19,32 +19,26 @@ total line is displayed showing the total value of all sales from the last 3 mon
 
 
 **For MAC**
-Go to App store 
-Get Xcode and install it
-Go to macports.org
-Select Installing MacPorts from the menu
-Then Download the version for your version of OS X 
-To open and install go to the downloads folder in finder and right click and select OPEN.  it does matter this circumvents 
+- Go to App store 
+- Get Xcode and install it
+- Go to macports.org
+- Select Installing MacPorts from the menu
+- Then Download the version for your version of OS X 
+- To open and install go to the downloads folder in finder and right click and select OPEN.  it does matter this circumvents 
 gatekeeper and allows you to install whatever you want.
  
-open terminal
-Type 
-xcode-select —install
-Type 
-sudo port selfupdate
-You will be prompted for your password
-after you enter your password then type
-sudo port install open-cobol
-You are good to go.
-
+- open terminal
+- Type xcode-select —install
+- Type sudo port selfupdate
+- You will be prompted for your password after you enter your password then type sudo port install open-cobol You are good to go.
 
 
 ## Deployment
--Make sure all of the files are in the cygwin-open-cobol folder
--Run Cygwin Terminal.vbs
--Change the directory to the location that has the project file and input file
--Type this in the command line  **cobc -xo Project3.exe --std=mf JJONESPROJECT3.cbl**
--This will create an executable file, Run the exe **./Project3.exe**
+- Make sure all of the files are in the cygwin-open-cobol folder
+- Run Cygwin Terminal.vbs
+- Change the directory to the location that has the project file and input file
+- Type this in the command line  **cobc -xo Project3.exe --std=mf JJONESPROJECT3.cbl**
+- This will create an executable file, Run the exe **./Project3.exe**
 
 ### **Version 1.0**
 
